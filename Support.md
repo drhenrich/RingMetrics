@@ -1,6 +1,6 @@
 # Support & Help for RingMetrics
 
-Welcome to the OOura Support Hub. OOura is a private, offline-first dashboard designed for smart ring visualization and cognitive research.
+Welcome to the RingMetrics Support Hub. RingMetrics is a private, offline-first dashboard designed for smart ring visualization and cognitive research.
 
 ## 🛠️ Frequently Asked Questions (FAQ)
 
