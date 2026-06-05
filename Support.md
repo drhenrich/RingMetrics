@@ -1,4 +1,4 @@
-# Support & Help for OOura
+# Support & Help for RingMetrics
 
 Welcome to the OOura Support Hub. OOura is a private, offline-first dashboard designed for smart ring visualization and cognitive research.
 
@@ -25,3 +25,4 @@ All analysis, calculations, and AI insights are calculated **strictly locally on
 If you encounter issues or have feedback:
 1.  **Open an Issue**: Please visit the public developer profile page at [https://github.com/drhenrich](https://github.com/drhenrich) to contact the author or log an issue.
 2.  **Email Support**: For direct technical assistance, reach out via the contact information provided in App Store Connect.
+3.  drhenrich@gmx.de
