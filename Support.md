@@ -5,12 +5,12 @@ Welcome to the OOura Support Hub. OOura is a private, offline-first dashboard de
 ## 🛠️ Frequently Asked Questions (FAQ)
 
 ### 1. How does the local data sync work?
-OOura relies on two methods of data synchronization:
+RingMetrics relies on two methods of data synchronization:
 1.  **Apple Health (HealthKit)**: Seamlessly imports steps, active calories, sleep durations, and workouts locally from your iPhone.
 2.  **Private Local Server**: An optional desktop-based automation tool that pulls data from Oura Cloud directly into your phone’s SQLite database.
 
-### 2. Is a subscription required to use OOura?
-No. OOura operates completely subscription-free. All features, including local SQLite database caching, trend charts, and the local AI Advisor, are fully functional out-of-the-box.
+### 2. Is a subscription required to use RingMetrics?
+No. RingMetrics operates completely subscription-free. All features, including local SQLite database caching, trend charts, and the local AI Advisor, are fully functional out-of-the-box.
 
 ### 3. How do I authorize HealthKit?
 Upon first launch, or inside the Settings tab, tap **Authorize Apple Health**. Ensure you grant permissions to read Sleep, Activity, Workouts, and Heart Rate data.
