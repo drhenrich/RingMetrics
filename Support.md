@@ -7,7 +7,7 @@ Welcome to the RingMetrics Support Hub. RingMetrics is a private, offline-first 
 ### 1. How does the local data sync work?
 RingMetrics relies on two methods of data synchronization:
 1.  **Apple Health (HealthKit)**: Seamlessly imports steps, active calories, sleep durations, and workouts locally from your iPhone.
-2.  **Private Local Server**: An optional desktop-based automation tool that pulls data from Oura Cloud directly into your phone’s SQLite database.
+2.  **Private Local Server**: An optional desktop-based automation tool that pulls data from ring's cloud account directly into your phone’s SQLite database.
 
 ### 2. Is a subscription required to use RingMetrics?
 No. RingMetrics operates completely subscription-free. All features, including local SQLite database caching, trend charts, and the local AI Advisor, are fully functional out-of-the-box.
