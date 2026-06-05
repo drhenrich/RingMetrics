@@ -41,5 +41,5 @@ You have complete ownership of your data:
 
 If you have any questions or require support regarding your privacy, please contact:
 
-- **Support**: [https://github.com/drhenrich/OOura/issues](https://github.com/drhenrich/OOura/issues)
+- **Support**: [https://github.com/drhenrich/RingMetrics/issues]
 - **Developer**: Prof. Dr. Dietmar Henrich — profhenrich@googlemail.com
